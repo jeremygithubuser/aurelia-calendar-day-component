@@ -1,0 +1,32 @@
+{
+  "name": "aurelia-calendar-day-component",
+  "version": "1.0.0",
+  "description": "day calendar for aurelia",
+  "directories": {
+    "lib": "src"
+  },
+  "main": "index.js",
+  "format": "es6",
+  "registry": "jspm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jeremygithubuser@github.com/jeremygithubuser/aurelia-calendar-day-component.git"
+  },
+  "author": "jeremy daniel bouvier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremygithubuser/aurelia-calendar-day-component/issues"
+  },
+  "homepage": "https://github.com/jeremygithubuser/aurelia-calendar-day-component#readme",
+  "devDependencies": {
+    "babel": "npm:babel-core@^5.8.24",
+    "babel-runtime": "npm:babel-runtime@^5.8.24",
+    "core-js": "npm:core-js@^1.1.4"
+  },
+  "dependencies": {
+    "aurelia-framework": "npm:aurelia-framework@1.0.5"
+  }
+}
