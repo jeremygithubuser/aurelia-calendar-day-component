@@ -1,6 +1,6 @@
 import {bindable} from "aurelia-framework";
 
-export class DayCalendar {
+export class CalendarDay {
     /* start-non-standard */
     @bindable selectedDay = null;
     @bindable selectedHalfHours = [];
