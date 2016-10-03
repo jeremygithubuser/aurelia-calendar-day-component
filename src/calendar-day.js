@@ -9,6 +9,6 @@ export class DayCalendar {
 
     }
     attached(){
-        this.refresh();
+       
     }
 }
