@@ -5,4 +5,10 @@ export class DayCalendar {
     @bindable selectedDay = null;
     @bindable selectedHalfHours = [];
     /* end-non-standard */
+    constructor() {
+
+    }
+    attached(){
+        this.refresh();
+    }
 }
